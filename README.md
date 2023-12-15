@@ -1,15 +1,5 @@
 # Tic-Tac-Toe Game
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tic-Tac-Toe Game</title>
-  <style>
-    /* Add your CSS styles here */
-  </style>
-</head>
-<body>
+
   <h1>Tic-Tac-Toe Game</h1>
   <p>Welcome to the Tic-Tac-Toe Game repository! This is a simple web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players take turns to place their symbols on a 3x3 grid, aiming to achieve a winning alignment of three symbols in a row, column, or diagonal. Player 1 starts with the symbol 'O', and Player 2 starts with 'X'. The game provides a 'New Game' or 'Reset' button to start fresh rounds.</p>
 
